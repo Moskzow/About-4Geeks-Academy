@@ -1,0 +1,164 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+template: "online-cv"
+skin: "blue"
+
+basic_info: 
+  avatar: "https://avatars.githubusercontent.com/u/80925925?v=4"
+  email: inmoskwetrust@gmail.com
+  first_name: "Abraham Atl"
+  github: moskzow
+  interests: 
+    - 
+      item: "Science and Technology"
+    - 
+      item: Blockchain
+    - 
+      item: "Ancient History and Enigmas"
+    - 
+      item: Etymology
+    - 
+      item: "Art and nature"
+    - 
+      item: "Ilustration and sketching"
+    - 
+      item: "Inventions and Engineering puzzles"
+    - 
+      item: "Xtreme Sports (Skateboarding, BMX, Parachute jump...)"
+    - 
+      item: "Solve Rubik's Cubes"
+    - 
+      item: "Study of celestial bodies and their electromagnetic influences"
+    - 
+      item: "Psychology and structure of thought"
+    - 
+      item: "Decrypt hidden codes"
+  languages: 
+    - 
+      idiom: Spanish
+      level: Native
+    - 
+      idiom: English
+      level: Bilingual
+  last_name: "Ferreira Martínez"
+  linkedin: abrahamatlferreiramartinez
+  motto: Todólogo
+  phone: "+34 641688169, +52 5527784319"
+  stack-overflow: ~
+  summary: |
+      At the age of 7 I start using the Commodore 64 to code by the first time.
+      At 9 I learn how to use CorelDraw 4.
+      At the age of 11 I could create any design that my father needed for his work (serigraphy).
+      At 13 I ddisassembled by the first time a keyboard, mouse, a cathode tube monitor and a desktop computer including all its screws, cables, jumpers and any other removable parts, beecause I see a "Hardware error" in Windows 3.11 workgrup.
+      My room looked like a landfill, with lots litle piles of screws organized in different places, my desk, the floor, my bed was the cathode tube,
+      while I analyzed each element my father entered the room to make a design in CorelDraw when he saw all that, just put his hands to his head and said
+      "I need to make an urgent design, I'll give you half an hour to assemble the computer" in 28 minutes I was warning that the computer was assembled, turned on and that the Hardware error had disappeared , there was not a single screw left, I remembered where each jumper went.
+      This is how my beginnings were in the world of computing and design.
+      
+      I grew up in a family of plastic artists(Only crazy people ovethere), they taught me acting, music, painting, drawing, sculpture, dance and performance.
+      I have worked doing all kinds of tasks such as designing characters for printing and embroidery for a children's and youth clothing company in Mexico.
+      I recorded, edited and broadcast commercials for a local television channel in Mexico (Also using my voice in the voice in off of the commercials).
+      I was a summer youth camp monitor for 3 consecutive years, organizing activities for more than 100 young people (Mexico).
+      I have worked in corn, bean, cherry tomato and medlar crops.
+      I have worked as a private and company driver.
+      I have worked in gas stations.
+      Remodeling kitchens.
+      Sale of food products.
+      For some years I worked in the hospitality and tourism industry.
+      I have also done jobs in bars including the worst jobs like cleaning the toilets... (Damn drunks)
+      I have been a private drawing teacher.
+      Guitar teacher at the Casa de la Cultura in Morelia, Mexico.
+      I made the scale model of the plans of an institute to present them to the governor of the state of Guanajuato in Mexico.
+      I have served as a youth psychologist on an excursion on the Camino de Santiago, Spain.
+      I have worked providing bilingual support to users of HP products in Latin America and the Caribbean.
+      I grew up working at the beginning of a large Spanish online sales company (PcComponentes.com)
+      I had a small grocery business for 3 years until we made the decision to move to Spain.
+      I have helped design and make a mosaic of tiles at the entrance of a small Andalusian town.
+      I have designed, drawn and painted murals.
+      I have been a special guest to participate in a fanzine magazine.
+      I have designed tattoos that have ended up on a piece of foreign skin.
+      I have worked in the clothing manufacturing business and its marketing.
+      I'm a native Storyteller.
+  twitter: "@diosatl"
+  website: "not yet"
+education: 
+  - 
+    degree: "Cisco IT Essentials I Certificate PC Hardware & Software."
+    time: 2004
+    university: "Master D"
+  - 
+    degree: "High School"
+    time: 2013
+    university: CENEVAL
+experiences: 
+  - 
+    company: "No one"
+    details: |
+        -
+        
+          - Bullet point
+          - Bullet point
+    role: "A lot"
+    time: "To much"
+  - 
+    company: "No one"
+    details: |
+        -
+        
+          - Bullet point
+          - Bullet point
+    role: "A lot"
+    time: "To much"
+  - 
+    company: "No one"
+    details: |
+        -
+        
+          - Bullet point
+          - Bullet point
+    role: "A lot"
+    time: "To much"
+projects: 
+  assignments: 
+    - 
+      link: "#"
+      tagline: "-"
+      title: Many
+    - 
+      link: "#"
+      tagline: "-"
+      title: Many
+    - 
+      link: "#"
+      tagline: "-"
+      title: Many
+    - 
+      link: "#"
+      tagline: "-"
+      title: Many
+    - 
+      link: "#"
+      tagline: "-"
+      title: Many
+  intro: "-\n"
+skills: 
+  toolset: 
+    - 
+      level: 98%
+      name: CorelDraw
+    - 
+      level: 98%
+      name: "Sketch Software"
+    - 
+      level: 95%
+      name: "Software maintenance"
+    - 
+      level: 90%
+      name: "Video editors"
+    - 
+      level: 80%
+      name: "Entornos multimedia"
+    - 
+      level: 20%
+      name: "HTML5 & CSS"
